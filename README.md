@@ -6,7 +6,7 @@ After this was completed, we were tasked with building the visuals of the data f
 
 See below link to the tablau dashboard:
 
-[link to dashboard](https://public.tableau.com/views/Week_14_Challenge_16542224310100/CheckoutTimesforUsers?:language=en-US&:display_count=n&:origin=viz_share_link)
+[link to dashboard](https://public.tableau.com/app/profile/blaine.moreland/viz/Week_14_Challenge_16542224310100/NYBikeStory)
 
 Results:
 
