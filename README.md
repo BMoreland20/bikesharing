@@ -8,6 +8,7 @@ See below link to the tablau dashboard:
 
 [link to dashboard](https://public.tableau.com/views/Week_14_Challenge_16542224310100/CheckoutTimesforUsers?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+
 Results:
 
 For our first visual we created the checkout times per minute by users.  As we can see in the image below the bikes are primarily used within the first hour and under 20 minutes.  It could be assumed that the bikes are typically being used for short trips to get to nearby places.
