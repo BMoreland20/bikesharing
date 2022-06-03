@@ -1,7 +1,12 @@
 Overview of the analysis:
+
 For this week’s challenge we are tasked with performing a minor ETL on the CitiBikes data csv to update the tripduration column to a datetime format instead of an integer.
 
 After this was completed, we were tasked with building the visuals of the data for the “Checkout Times for Users”, “Checkout Times by Gender”, “Trips by Weekday for Each Hour”, “Trips by Gender (Weekday per Hour)”, and “User Trips by Gender by Weekday”
+
+See below link to the tablau dashboard:
+
+[link to dashboard](https://public.tableau.com/views/Week_14_Challenge_16542224310100/CheckoutTimesforUsers?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Results:
 
